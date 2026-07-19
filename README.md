@@ -1,0 +1,1 @@
+# Real-Time-Sign-Language-Recognition-Using-Mediapipe-SVM-and-Linguistic-Post-Processing
