@@ -63,6 +63,10 @@ The dataset was split into:
 
 All features were standardized before training to ensure numerical stability and optimal model performance.
 
+<p align="center">
+  <img src="./alphabet.png" alt="Alphabet" width="800">
+</p>
+
 ---
 
 ## 🔍 Feature Extraction
@@ -75,6 +79,10 @@ Each hand frame is processed using MediaPipe to extract **21 landmark points**. 
 - Normalized geometric descriptors
 
 These handcrafted features significantly improve the performance of the classical ML model compared to raw coordinates.
+
+<p align="center">
+  <img src="./landmarks.png" alt="Landmarks" width="800">
+</p>
 
 ---
 
@@ -134,6 +142,10 @@ A lightweight web-based interface is developed to demonstrate the system:
 - Displays processed text output dynamically
 
 The interface ensures an intuitive user experience for real-world testing.
+
+<p align="center">
+  <img src="./ui2.png" alt="Web Interface" width="800">
+</p>
 
 ---
 
